@@ -4,8 +4,6 @@
 
 - <b>Azure SOC Honeynet Project with SEIM intergration & threat anaysis</b>
   - [Azure SOC Honeynet Project](https://github.com/mattjsnow/azure-soc-honeynet)
-  - [Threat anaysis of Azure malitious traffic](https://github.com/mattjsnow/threat-azure)
-
 
 <h2> 🤳 Connect with me:</h2>
 
